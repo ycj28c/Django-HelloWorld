@@ -29,4 +29,6 @@ $>python manage.py startapp helloworld
 
 For detail, check the [Python2.7+Django1.7+Windows+HelloWorld](document/Python2.7+Django1.7+Windows+HelloWorld.pdf)
 
+# Reference
+[Django快速入门笔记（1）——我只想简单做个网站](https://zhuanlan.zhihu.com/p/24831528)
 
