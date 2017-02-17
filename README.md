@@ -24,7 +24,9 @@ $>django-admin.py startproject helloworld
 //create a app
 $>python manage.py startapp helloworld
 ```
+
 ...
-For detail, check the /document/Python2.7+Django1.7+Windows+HelloWorld.pdf
+
+For detail, check the */document/Python2.7+Django1.7+Windows+HelloWorld.pdf*
 
 
