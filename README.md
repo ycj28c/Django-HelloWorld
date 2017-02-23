@@ -7,7 +7,7 @@ Django1.7
 
 # How to run
 ```
-$> pythont manage.py runsever
+$> python manage.py runsever
 ```
 open browser and type http://127.0.0.1:8000/
 
