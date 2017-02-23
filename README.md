@@ -1,4 +1,4 @@
-# DjangoHelloWorld
+# DjangoHelloWorld[![Build Status](https://travis-ci.org/ycj28c/Django-HelloWorld.svg?branch=master)](https://travis-ci.org/ycj28c/Django-HelloWorld)
 A simple Python2.7 + Django1.7 web example
 
 # Requirement
